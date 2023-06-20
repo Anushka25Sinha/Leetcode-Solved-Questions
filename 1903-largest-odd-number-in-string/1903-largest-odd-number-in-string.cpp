@@ -8,6 +8,6 @@ public:
             if((num[i]-'0')%2!=0)
                 return num.substr(0,i+1);
         }
-        return "";
+        return s;
     }
 };
