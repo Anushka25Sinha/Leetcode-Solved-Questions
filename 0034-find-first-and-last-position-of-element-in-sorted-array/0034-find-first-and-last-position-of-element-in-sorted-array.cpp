@@ -44,17 +44,18 @@ public:
         return ans;
     }
     vector<int> searchRange(vector<int>& nums, int k) {
-        pair<int,int>res;
+       vector<int>ans;
         int n=nums.size();
         int lb= lower_bound(nums,k);
-        
+        ans.push_back(lb);
         int ub= upper_bound(nums,k);
+        ans.push_back(ub-1);
         if(lb==n || nums[lb]!=k)
         { 
             return{-1,-1};
         }
         
-            return {lb,ub-1};
+            return ans;
         
     }
 };
