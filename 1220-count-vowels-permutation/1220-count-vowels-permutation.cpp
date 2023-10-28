@@ -4,7 +4,7 @@ public:
         const int MOD=1000000007;
         long countA=1, countE=1, countI=1,countO=1,countU=1;
         
-        for(int length=1;length<n;length++)
+        for(int i=1;i<n;i++)
         {
             long nextCountA=countE;
             long nextCountE=(countA+countI)%MOD;
