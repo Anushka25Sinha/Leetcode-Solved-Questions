@@ -12,7 +12,6 @@ public:
                 result.push_back("Pop");
                 current++;
             }
-            
             result.push_back("Push");
             current++;
         }
