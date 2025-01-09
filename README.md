@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0647-palindromic-substrings) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1524-string-matching-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1524-string-matching-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
