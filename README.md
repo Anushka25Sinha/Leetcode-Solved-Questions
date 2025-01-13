@@ -17,6 +17,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0952-word-subsets](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
