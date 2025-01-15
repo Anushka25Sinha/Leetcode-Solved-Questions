@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
+## Greedy
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
