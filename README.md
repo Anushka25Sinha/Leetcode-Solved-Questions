@@ -40,6 +40,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
@@ -54,6 +55,7 @@
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2509-minimize-xor) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
