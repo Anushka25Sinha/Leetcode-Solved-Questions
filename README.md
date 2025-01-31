@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0041-first-missing-positive) |
 | [0952-word-subsets](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0041-first-missing-positive) |
 | [0952-word-subsets](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
