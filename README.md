@@ -21,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0041-first-missing-positive) |
+| [0198-house-robber](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0198-house-robber) |
 | [0952-word-subsets](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
