@@ -47,6 +47,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2792-neighboring-bitwise-xor) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
