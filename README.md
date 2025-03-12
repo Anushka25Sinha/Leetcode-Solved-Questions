@@ -52,6 +52,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2792-neighboring-bitwise-xor) |
@@ -86,6 +87,7 @@
 ## Counting
 |  |
 | ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
