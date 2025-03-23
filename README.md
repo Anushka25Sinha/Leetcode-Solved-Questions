@@ -31,6 +31,7 @@
 | [0647-palindromic-substrings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,4 +126,16 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0257-binary-tree-paths) |
+## Graph
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
