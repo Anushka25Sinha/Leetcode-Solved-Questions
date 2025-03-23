@@ -27,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0198-house-robber](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -113,10 +114,12 @@
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -125,6 +128,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 ## Graph
 |  |
@@ -138,4 +142,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
