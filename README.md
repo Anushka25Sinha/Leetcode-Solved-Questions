@@ -60,6 +60,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3430-count-days-without-meetings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [3430-count-days-without-meetings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
 ## Backtracking
 |  |
 | ------- |
