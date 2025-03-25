@@ -128,15 +128,18 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
 ## Graph
 |  |
 | ------- |
@@ -153,4 +156,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
