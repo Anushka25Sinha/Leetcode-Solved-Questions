@@ -62,6 +62,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [3430-count-days-without-meetings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Backtracking
 |  |
 | ------- |
