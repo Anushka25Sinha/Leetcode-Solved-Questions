@@ -129,17 +129,20 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Graph
 |  |
 | ------- |
@@ -156,8 +159,10 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
