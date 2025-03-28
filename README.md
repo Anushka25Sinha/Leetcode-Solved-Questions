@@ -7,6 +7,7 @@
 | [0344-reverse-string](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0647-palindromic-substrings) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3430-count-days-without-meetings](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Backtracking
@@ -165,4 +168,17 @@
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Union Find
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Matrix
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anushka25Sinha/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
